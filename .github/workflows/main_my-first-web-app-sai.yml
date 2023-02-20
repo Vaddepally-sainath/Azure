@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'my-first-web-app-sai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD0399BB636A40CB9E3142CC1AD2D399 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C96B9330E8AD404D9AFEBF473038EC46 }}
           package: '*.jar'
